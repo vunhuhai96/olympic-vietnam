@@ -76,6 +76,8 @@ Tại ASIAD 2018"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-2328589623882503/4709391039"></com.google.android.gms.ads.AdView>
+        ads:adUnitId="ca-app-pub-5155360783692513/1048158259">
+
+    </com.google.android.gms.ads.AdView>
 
 </LinearLayout>

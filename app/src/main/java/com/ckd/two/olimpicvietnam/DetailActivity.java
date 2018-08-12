@@ -25,7 +25,7 @@ public class DetailActivity extends AppCompatActivity {
     }
 
     private void requestAds() {
-        MobileAds.initialize(getApplicationContext(), "ca-app-pub-2328589623882503~1702710472");
+        MobileAds.initialize(getApplicationContext(), "ca-app-pub-5155360783692513~9315846309");
         banner = (AdView) findViewById(R.id.banner_detail);
         AdRequest adRequest = new AdRequest.Builder().build();
         banner.loadAd(adRequest);
